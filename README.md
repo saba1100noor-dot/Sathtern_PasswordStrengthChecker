@@ -1,0 +1,1 @@
+# Sathtern_PasswordStrengthChecker
